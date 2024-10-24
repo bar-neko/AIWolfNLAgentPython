@@ -3,6 +3,7 @@ venv/
 .git
 .vscode
 /log/
-res/*.ini
-res/ssh-config
+# res/*.ini
+# res/ssh-config
 connect_to_server.py
+# *.sh
